@@ -52,7 +52,7 @@ Now clone my repository
 ENTER THE DIRECTORY (folder) zoomautolinux
 the main file is z.py
 enter your meeting timings 24-hr format (DD/MM/YYYY HH:MM) in the file enter.csv
-meeting id and passcode to be added too (i have shown some examples in the enter.csv file)
+meeting id and passcode to be added too (i have shown some examples in the enter.csv file, you have to edit them)
 
 so after this, run the script ``z.py``using python3 i.e open the terminal and enter the directory zoomautolinux 
 
