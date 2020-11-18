@@ -17,23 +17,23 @@ You will need the following packages:
 
 **HOW TO INSTALL THE PACKAGES ?**
 
-**OPEN TERMINAL** and type one by one
+**OPEN TERMINAL** and type them codes click enter.
 
-sudo apt-get update
+``sudo apt-get update``
 
-sudo apt-get upgrade
+``sudo apt-get upgrade``
 
-sudo apt-get install python3
+``sudo apt-get install python3``
 
-sudo apt-get install python3-pip
+``sudo apt-get install python3-pip``
 
-pip3 install pyautogui
+``pip3 install pyautogui``
 
-pip3 install pandas
+``pip3 install pandas``
 
-pip3 install datetime
+``pip3 install datetime``
 
-pip3 install Pillow
+``pip3 install Pillow``
 
 ................................................................................................................................................................................
 *********************************************************************************************************************************************************************************
