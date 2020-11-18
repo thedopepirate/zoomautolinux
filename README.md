@@ -1,5 +1,7 @@
 # zoomautolinux
 
+**windows version https://github.com/thedopepirate/zoom.git**
+
 A Python bot to join zoom meetings automatically ONLY FOR LINUX OS (DEBIAN)
 You will need the following packages:
 
