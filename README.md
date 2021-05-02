@@ -62,5 +62,3 @@ so after this, run the script ``z.py``using python3 i.e open the terminal and en
 
 (zoom automatically opens at the specified time when the program is run, once the meeting ends, it automatically joins the next one)
 
-
-reach out to me on @thedarknlucid on instagram 
